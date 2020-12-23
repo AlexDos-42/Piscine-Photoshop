@@ -3,6 +3,8 @@
 A la fin de cette semaine, vous maîtriserez les bases du logiciel et serez capables de
 créer avec Photoshop en toute autonomie.
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=Créa)](https://github.com/JaeSeoKim/badge42)
+
 ## Portfolio
 
 ### La chimère
