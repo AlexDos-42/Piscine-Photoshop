@@ -1,9 +1,16 @@
-# Piscine-Photoshop
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&text=Piscine-Photoshop&fontSize=64&fontAlignY=40&fontColor=d6ace6" alt="header" width="100%" />
+
+<p align="right">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
+</p>
 
 A la fin de cette semaine, vous maîtriserez les bases du logiciel et serez capables de
 créer avec Photoshop en toute autonomie.
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/alesanto?cursus=Créa)](https://github.com/JaeSeoKim/badge42)
+<p align="center">
+<img src="https://badge42.herokuapp.com/api/stats/alesanto?cursus=Créa" alt="AlexDos-42" />
+</p>
+
 
 ## Portfolio
 
