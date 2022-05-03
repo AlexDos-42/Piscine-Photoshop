@@ -7,10 +7,6 @@
 A la fin de cette semaine, vous maîtriserez les bases du logiciel et serez capables de
 créer avec Photoshop en toute autonomie.
 
-<p align="center">
-<img src="https://badge42.herokuapp.com/api/stats/alesanto?cursus=Créa" alt="AlexDos-42" />
-</p>
-
 
 ## Portfolio
 
